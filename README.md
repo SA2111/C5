@@ -1,1 +1,5 @@
-# Work Day Scheduler Starter Code
+# Work Day Scheduler 
+
+# Packages used:
+* Day.js
+* Moment.js
